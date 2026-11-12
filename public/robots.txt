@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shirinbeikzadeh.github.io/HealthGuideBishkek/sitemap.xml

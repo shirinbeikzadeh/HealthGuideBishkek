@@ -1,0 +1,8 @@
+[
+ {"id":"doctor","title":"How to See a Doctor","description":"Find the right care and feel prepared.","icon":"✚"},
+ {"id":"insurance","title":"Health Insurance","description":"Understand your options and coverage.","icon":"◈"},
+ {"id":"pharmacy","title":"Pharmacies & Medicines","description":"Navigate prescriptions and medicines.","icon":"✳"},
+ {"id":"concerns","title":"Common Health Concerns","description":"Practical advice for everyday health.","icon":"☀"},
+ {"id":"wellbeing","title":"Mental Wellbeing","description":"Support for feeling more like yourself.","icon":"♡"},
+ {"id":"culture","title":"Cultural & Dietary Needs","description":"Care that respects your preferences.","icon":"✿"}
+]

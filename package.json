@@ -1,0 +1,1 @@
+{"name":"healthguide-bishkek","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","validate":"node scripts/validate-data.js","build":"npm run validate && vite build","preview":"vite preview"},"devDependencies":{"vite":"^7.2.0"}}
