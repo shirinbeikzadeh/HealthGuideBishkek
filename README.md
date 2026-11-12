@@ -18,7 +18,7 @@ Use the address Vite prints. The build outputs static files in `dist/`. Hash-bas
 
 ## Deploy
 
-The included GitHub Actions workflow builds and deploys to GitHub Pages. In repository settings, choose **Pages → Build and deployment → GitHub Actions**. Push to the default branch and check the Actions run. Cloudflare Pages or Netlify can build with `npm run build` and publish `dist`; set the appropriate base path first.
+GitHub Pages currently serves the repository root on `main`. After any source change, run `npm run build`, copy `dist/index.html` to the repository root and copy `dist/assets/` to the root `assets/` directory, then commit those published files with the source. The Vite configuration uses the source entry when developing or building. The included Actions workflow can also deploy the build if Pages is configured for GitHub Actions. Cloudflare Pages or Netlify can build with `npm run build` and publish `dist`; set the appropriate base path first.
 
 ## Content maintenance
 
