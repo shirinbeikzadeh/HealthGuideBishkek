@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "id": "clinical-hospital-presidential-administration",
+    "name": "Clinical Hospital of the Presidential Administration",
+    "type": "Hospital",
+    "address": "110 Kievskaya Street, Bishkek",
+    "phone": "+996312626491",
+    "specialties": [
+      "Cardiology",
+      "General medicine",
+      "Pediatrics",
+      "Ophthalmology"
+    ],
+    "website": "https://clinic.gov.kg/",
+    "sources": [
+      {
+        "label": "Hospital official website",
+        "url": "https://clinic.gov.kg/"
+      }
+    ],
+    "lastVerified": "2026-11-12",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=110%20Kievskaya%20Street%2C%20Bishkek"
+  },
+  {
+    "id": "unimed-clinic",
+    "name": "Unimed Clinic",
+    "type": "Clinic",
+    "address": "3v Baitik Baatyra Street, Bishkek",
+    "phone": "+996553575691",
+    "hours": "Monday–Friday 09:00–18:00; Saturday 09:00–14:00; Sunday closed",
+    "website": "https://unimed.kg/",
+    "sources": [
+      {
+        "label": "Unimed Clinic contacts",
+        "url": "https://unimed.kg/contacts/"
+      }
+    ],
+    "lastVerified": "2026-11-12",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=3v%20Baitik%20Baatyra%20Street%2C%20Bishkek"
+  },
+  {
+    "id": "on-clinic",
+    "name": "On Clinic Bishkek",
+    "type": "Clinic",
+    "address": "44 Usenbaeva Street, Bishkek",
+    "phone": "+996553624040",
+    "hours": "Monday–Friday 08:00–18:00; Saturday 08:00–15:00; Sunday closed",
+    "website": "https://onclinic.kg/",
+    "sources": [
+      {
+        "label": "On Clinic contacts",
+        "url": "https://onclinic.kg/contacts.html"
+      }
+    ],
+    "lastVerified": "2026-11-12",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=44%20Usenbaeva%20Street%2C%20Bishkek"
+  }
+]

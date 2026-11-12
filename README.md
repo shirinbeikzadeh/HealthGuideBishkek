@@ -36,4 +36,4 @@ Automated collection is intentionally deferred. A researcher should review appro
 
 ## Current limitations
 
-The directories are empty pending human review; no university contact is configured. Article translations and full translations of some interface text remain to be completed and reviewed. Geolocation requests permission but cannot calculate distances until verified coordinates are added. The hero and topic images are AI-generated illustrations, not documentary photographs or depictions of specific facilities.
+The directory contains a small initial set of listings sourced from provider websites; confirm details directly before visiting. No university contact is configured. Article translations and some interface translations remain to be completed and reviewed. Geolocation requests permission but cannot calculate distances until verified coordinates are added. The hero and topic images are AI-generated illustrations, not documentary photographs or depictions of specific facilities.

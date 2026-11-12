@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "farmmarket-3",
+    "name": "Farmmarket 3",
+    "address": "53/2 Tokombaeva Street, Bishkek",
+    "phone": "+996312298470",
+    "hours": "Listed as open 24 hours",
+    "open24Hours": true,
+    "sources": [
+      {
+        "label": "Pharm-Service pharmacy network",
+        "url": "https://amt.kg/index.php/about/logistic/affiliates"
+      },
+      {
+        "label": "Branch details",
+        "url": "https://amt.kg/en/about/logistic/affiliates/3"
+      }
+    ],
+    "lastVerified": "2026-11-12",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=53%2F2%20Tokombaeva%20Street%2C%20Bishkek"
+  },
+  {
+    "id": "farmmarket-4",
+    "name": "Farmmarket 4",
+    "address": "52/3 Yunusaliyeva Street, Bishkek",
+    "phone": "+996312884630",
+    "hours": "Listed as open 24 hours",
+    "open24Hours": true,
+    "sources": [
+      {
+        "label": "Pharm-Service pharmacy network",
+        "url": "https://amt.kg/index.php/about/logistic/affiliates"
+      }
+    ],
+    "lastVerified": "2026-11-12",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=52%2F3%20Yunusaliyeva%20Street%2C%20Bishkek"
+  }
+]
