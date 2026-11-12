@@ -1,9 +1,192 @@
 [
- {"id":"doctor","category":"doctor","title":"How to See a Doctor","summary":"Appointments, choosing a clinic and preparing for a consultation.","sections":[{"heading":"Before your appointment","text":"Ask the clinic about appointment availability, languages, fees and accepted insurance before you book. Bring your identification, insurance documents and a list of medicines you take. Ask your university for its verified medical-office details."},{"heading":"During your consultation","text":"Explain your concerns and ask questions if anything is unclear. Ask the clinician to explain prescriptions, how to take medicines and what to do if symptoms change."}],"sources":[{"label":"WHO: Patient safety","url":"https://www.who.int/health-topics/patient-safety"}]},
- {"id":"insurance","category":"insurance","title":"Student Health Insurance Explained","summary":"Understand compulsory and private cover, and know what to ask.","sections":[{"heading":"Compulsory medical insurance","text":"The Kyrgyz Compulsory Medical Insurance Fund (FOMS) publishes information for foreign students and describes compulsory policies. Its pages contain differing information about documentation, so confirm current eligibility, documents, price, effective dates and application steps directly with FOMS or your university."},{"heading":"Coverage and claims","text":"Ask which facilities and services are covered, what exclusions and co-payments apply, and how to register with a family medicine centre. If considering private insurance, compare emergency care, exclusions, reimbursement procedures and documentation. Keep copies of your policy and receipts."},{"heading":"Emergency treatment","text":"In an emergency, call 112 or 103 immediately. Confirm coverage and payment rules with FOMS or your insurer; do not delay seeking emergency help while checking paperwork."}],"sources":[{"label":"FOMS: policy information","url":"https://foms.kg/polis/"},{"label":"FOMS: foreign students and policy applications","url":"https://foms.kg/ru/blog/418-Fond-OMS-uprostil-protsieduru-poluchieniia-polisa-OMS-dlia-inostrantsiev-i-inostrannykh-studientov.html"}]},
- {"id":"pharmacy","category":"pharmacy","title":"Top Pharmacies and What to Buy","summary":"Practical questions to ask when buying medicines.","sections":[{"heading":"At the pharmacy","text":"Ask a pharmacist whether a prescription is required and bring it when you have one. Do not assume that a particular medicine is in stock. Ask about generic and brand-name options and whether a proposed equivalent has the same active ingredient and strength."},{"heading":"Labels and storage","text":"Ask the pharmacist to explain the label, instructions and expiry date in a language you understand. Store medicines according to the label, away from children. Consult a healthcare professional if you are unsure."}],"sources":[{"label":"WHO: Medication safety","url":"https://www.who.int/initiatives/medication-without-harm"}]},
- {"id":"concerns","category":"concerns","title":"Staying Healthy Through Bishkek’s Seasons","summary":"Everyday considerations for weather, air quality, food and travel.","sections":[{"heading":"Everyday health","text":"For cold or flu symptoms, seek advice from a health professional if you are concerned. Wash hands regularly and follow local food and drinking-water guidance. Ask a clinician about seasonal allergies and persistent symptoms."},{"heading":"Air, winter and mountains","text":"Check local air-quality and weather information when planning outdoor activities. Dress for cold conditions. Before high-altitude travel, learn about altitude illness and plan a gradual ascent; seek urgent help for serious symptoms."}],"sources":[{"label":"WHO: Air pollution","url":"https://www.who.int/health-topics/air-pollution"},{"label":"CDC: High-altitude travel","url":"https://wwwnc.cdc.gov/travel/yellowbook/2026/environmental-hazards-risks/high-altitude-travel-and-altitude-illness"},{"label":"WHO: Food safety","url":"https://www.who.int/news-room/fact-sheets/detail/food-safety"}]},
- {"id":"wellbeing","category":"wellbeing","title":"Mental Wellbeing","summary":"Support for homesickness, academic stress and culture shock.","sections":[{"heading":"Finding support","text":"Moving and studying abroad can be stressful. Stay connected with trusted people, make time for rest and ask your university about counselling or student support. A qualified health professional can help you explore support that fits your needs. If someone is in immediate danger, call emergency services."}],"sources":[{"label":"WHO: Mental health","url":"https://www.who.int/health-topics/mental-health"}]},
- {"id":"culture","category":"culture","title":"Cultural & Dietary Needs","summary":"Discuss food, fasting and religious preferences with your care team.","sections":[{"heading":"Communicate your needs","text":"Tell your clinician about dietary restrictions, halal preferences and religious practices that matter to you. Ask about ingredients and alternatives when appropriate. If you plan to fast during Ramadan and have a health condition or take medication, discuss your individual circumstances with a clinician before changing your routine."}],"sources":[{"label":"WHO: Diabetes and Ramadan","url":"https://www.emro.who.int/health-topics/diabetes/diabetes-and-ramadan.html"}]},
- {"id":"hospitals","category":"doctor","title":"Best Hospitals and Clinics in Bishkek","summary":"How to choose a facility while our directory is being verified.","sections":[{"heading":"Choosing care","text":"Our facility directory is being researched. We do not rank or recommend a facility without verified information. Check the facility’s credentials, opening hours, language support and fees directly before booking."}],"sources":[{"label":"WHO: Patient safety","url":"https://www.who.int/health-topics/patient-safety"}]}
+  {
+    "id": "doctor",
+    "category": "doctor",
+    "title": "How to See a Doctor",
+    "summary": "Appointments, choosing a clinic and preparing for a consultation.",
+    "sections": [
+      {
+        "heading": "Choosing care and booking",
+        "text": "Ask the clinic whether it provides the service you need, whether an appointment is required, what the consultation costs and which insurance it accepts. Confirm the language spoken by the clinician or arrange a trusted interpreter. If you have a registered family medicine centre, ask it about referrals."
+      },
+      {
+        "heading": "Prepare for the consultation",
+        "text": "Bring identification, insurance documents, relevant medical records and a list of medicines, allergies and questions. Ask your university for its verified medical-office details; no university contact is assumed here."
+      },
+      {
+        "heading": "Understanding a prescription",
+        "text": "Ask what each medicine is for, how and when to take it, what precautions apply and whom to contact if you have questions. Ask for instructions in a language you understand. A pharmacist can help explain the label."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO: patient safety",
+        "url": "https://www.who.int/health-topics/patient-safety"
+      },
+      {
+        "label": "WHO: medication safety",
+        "url": "https://www.who.int/initiatives/medication-without-harm"
+      }
+    ]
+  },
+  {
+    "id": "insurance",
+    "category": "insurance",
+    "title": "Student Health Insurance Explained",
+    "summary": "Understand compulsory and private cover, and know what to ask.",
+    "sections": [
+      {
+        "heading": "Compulsory medical insurance for international students",
+        "text": "The Kyrgyz Compulsory Medical Insurance Fund (FOMS) says foreign students should obtain a compulsory medical insurance (OMS) policy. Your university can help explain the process and registration with a family medicine centre. Check current eligibility, dates, fees and coverage directly with FOMS before purchasing."
+      },
+      {
+        "heading": "Documents and how to apply",
+        "text": "FOMS pages currently give conflicting instructions: its policy page lists a passport and a Kyrgyz personal identification number (PIN), while its July 2025 announcement says an identity document is sufficient even without a PIN. Confirm which rule and application method applies to you with FOMS or your university. Keep your identification and payment receipt available."
+      },
+      {
+        "heading": "Coverage and private insurance",
+        "text": "Ask FOMS which family medicine centre you should register with, what services are covered, what co-payments and exclusions apply, and when your policy begins. If considering private insurance, compare the provider network, emergency cover, exclusions and reimbursement rules. Keep copies of your policy and receipts."
+      },
+      {
+        "heading": "Emergency treatment and help",
+        "text": "If someone needs urgent help, call 112 or 103 without waiting to check insurance. The FOMS insurance information line is 113. Ask the insurer about claims, documents and payment obligations once the emergency has been addressed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FOMS: compulsory insurance policy",
+        "url": "https://foms.kg/polis/"
+      },
+      {
+        "label": "FOMS: application changes for foreign students, 3 July 2025",
+        "url": "https://foms.kg/ru/blog/418-Fond-OMS-uprostil-protsieduru-poluchieniia-polisa-OMS-dlia-inostrantsiev-i-inostrannykh-studientov.html"
+      }
+    ]
+  },
+  {
+    "id": "pharmacy",
+    "category": "pharmacy",
+    "title": "Top Pharmacies and What to Buy",
+    "summary": "Practical questions to ask when buying medicines.",
+    "sections": [
+      {
+        "heading": "Prescriptions and buying medicines",
+        "text": "Ask a pharmacist whether a prescription is required and bring it if you have one. Availability varies; call the pharmacy to check before travelling. Do not assume a particular medicine is in stock."
+      },
+      {
+        "heading": "Generics, brands and equivalents",
+        "text": "A generic and a brand-name product may contain the same active ingredient. Ask a pharmacist or clinician to check the ingredient, strength, form and suitability before substituting; do not choose an equivalent solely by name or packaging."
+      },
+      {
+        "heading": "Labels and safe storage",
+        "text": "Ask the pharmacist to explain the instructions, expiry date and storage requirements in a language you understand. Follow the label and keep medicines away from children. Speak to a healthcare professional if you are unsure."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO: medication safety",
+        "url": "https://www.who.int/initiatives/medication-without-harm"
+      }
+    ]
+  },
+  {
+    "id": "concerns",
+    "category": "concerns",
+    "title": "Staying Healthy Through Bishkek’s Seasons",
+    "summary": "Everyday considerations for weather, air quality, food and travel.",
+    "sections": [
+      {
+        "heading": "Colds and flu",
+        "text": "Wash your hands regularly and seek advice from a qualified professional if symptoms concern you, become severe or persist. Ask a clinician about vaccination and your individual risk."
+      },
+      {
+        "heading": "Food and drinking water",
+        "text": "Wash hands before handling food, use safe water and follow local guidance. Keep raw and cooked foods separate and cook food thoroughly. Ask locally about the safety of your drinking water; use a safer alternative if uncertain."
+      },
+      {
+        "heading": "Allergies and air pollution",
+        "text": "Ask a clinician about persistent allergy symptoms. Air pollution can affect health: check reliable local air-quality information and consider limiting outdoor activity when pollution is high, especially if you are sensitive."
+      },
+      {
+        "heading": "Winter and mountain travel",
+        "text": "Dress in warm layers and check forecasts. High altitude can cause illness even in healthy travellers. Plan a gradual ascent and learn the symptoms before travel; seek medical help promptly if symptoms are severe or worsen."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO: food safety",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+      },
+      {
+        "label": "WHO: air pollution",
+        "url": "https://www.who.int/health-topics/air-pollution"
+      },
+      {
+        "label": "CDC Yellow Book: high-altitude travel",
+        "url": "https://wwwnc.cdc.gov/travel/yellowbook/2026/environmental-hazards-risks/high-altitude-travel-and-altitude-illness"
+      }
+    ]
+  },
+  {
+    "id": "wellbeing",
+    "category": "wellbeing",
+    "title": "Mental Wellbeing",
+    "summary": "Support for homesickness, academic stress and culture shock.",
+    "sections": [
+      {
+        "heading": "Adjustment and support",
+        "text": "Homesickness, academic pressure and culture shock can make adjustment difficult. Stay connected with people you trust, make time for rest and ask your university about student support or counselling."
+      },
+      {
+        "heading": "Finding professional help",
+        "text": "A qualified mental health professional can help you explore support suited to your needs. Ask about language, confidentiality, fees and insurance before booking. If someone is in immediate danger, call 112 or 103."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO: mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      }
+    ]
+  },
+  {
+    "id": "culture",
+    "category": "culture",
+    "title": "Cultural & Dietary Needs",
+    "summary": "Discuss food, fasting and religious preferences with your care team.",
+    "sections": [
+      {
+        "heading": "Food and religious preferences",
+        "text": "Tell your care team about halal food, allergies, dietary restrictions and religious practices that matter to you. Ask about ingredients and available alternatives when appropriate."
+      },
+      {
+        "heading": "Ramadan and medication",
+        "text": "If you plan to fast and have a health condition or take medication, discuss your individual circumstances with a clinician before changing meals or medicines. Ask for a plan that takes account of your health and beliefs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO Eastern Mediterranean: diabetes and Ramadan",
+        "url": "https://www.emro.who.int/health-topics/diabetes/diabetes-and-ramadan.html"
+      }
+    ]
+  },
+  {
+    "id": "hospitals",
+    "category": "doctor",
+    "title": "Best Hospitals and Clinics in Bishkek",
+    "summary": "How to choose a facility while our directory is being verified.",
+    "sections": [
+      {
+        "heading": "Choosing care",
+        "text": "Our facility directory is being researched. We do not rank or recommend a facility without verified information. Check the facility’s credentials, opening hours, language support and fees directly before booking."
+      }
+    ],
+    "sources": [
+      {
+        "label": "WHO: Patient safety",
+        "url": "https://www.who.int/health-topics/patient-safety"
+      }
+    ]
+  }
 ]

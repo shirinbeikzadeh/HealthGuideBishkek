@@ -32,8 +32,8 @@ All published content is in `src/data/`. The empty clinic and pharmacy directori
 
 ## Research workflow (second phase)
 
-Automated collection is intentionally deferred. A researcher should review approved official sources manually, respect each site's access and reuse rules, record URLs and dates, check possible duplicates and missing fields, and save proposed records separately for human review. Never add unverified candidates to published JSON. No AI key is needed.
+Automated collection is intentionally deferred. A researcher should review approved official sources manually, respect each site's access and reuse rules, record URLs and dates, check possible duplicates and missing fields, and save proposed records separately for human review. Initial candidates are in `research/candidates.json`; they are not included in the public website. A person must approve the individual records before adding them to published JSON. No AI key is needed.
 
 ## Current limitations
 
-The directories are empty pending verification; no university contact is configured. Article translations and full translations of some interface text remain to be completed and reviewed. Geolocation requests permission but cannot calculate distances until verified coordinates are added. The mountain hero and category artwork are original CSS illustrations, not photographs of specific facilities.
+The directories are empty pending human review; no university contact is configured. Article translations and full translations of some interface text remain to be completed and reviewed. Geolocation requests permission but cannot calculate distances until verified coordinates are added. The hero and topic images are AI-generated illustrations, not documentary photographs or depictions of specific facilities.

@@ -1,4 +1,5 @@
 import './style.css';
+import './concept.css';
 import categories from './data/categories.json';
 import guides from './data/guides.json';
 import clinics from './data/clinics.json';

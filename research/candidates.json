@@ -1,0 +1,14 @@
+{
+  "reviewStatus": "unverified — human approval required before publication",
+  "researchedOn": "2026-11-12",
+  "notes": "Facts are copied or translated from the listed providers' own pages, not independently confirmed. Call providers to confirm current availability, access, prices, languages, hours and insurance before publishing. No recommendation or endorsement is implied.",
+  "clinics": [
+    {"id":"clinical-hospital-presidential-administration","name":"Clinical Hospital of the Presidential Administration","type":"Hospital","address":"110 Kievskaya Street, Bishkek","phone":"+996312626491","specialties":["Cardiology","General medicine","Pediatrics","Ophthalmology"],"website":"https://clinic.gov.kg/","sources":[{"label":"Hospital official website","url":"https://clinic.gov.kg/"}],"lastVerified":"2026-11-12","verificationStatus":"unverified"},
+    {"id":"unimed-clinic","name":"Unimed Clinic","type":"Clinic","address":"3v Baitik Baatyra Street, Bishkek","phone":"+996553575691","hours":"Monday–Friday 09:00–18:00; Saturday 09:00–14:00; Sunday closed","website":"https://unimed.kg/","sources":[{"label":"Unimed Clinic contacts","url":"https://unimed.kg/contacts/"}],"lastVerified":"2026-11-12","verificationStatus":"unverified"},
+    {"id":"on-clinic","name":"On Clinic Bishkek","type":"Clinic","address":"44 Usenbaeva Street, Bishkek","phone":"+996553624040","hours":"Monday–Friday 08:00–18:00; Saturday 08:00–15:00; Sunday closed","website":"https://onclinic.kg/","sources":[{"label":"On Clinic contacts","url":"https://onclinic.kg/contacts.html"}],"lastVerified":"2026-11-12","verificationStatus":"unverified"}
+  ],
+  "pharmacies": [
+    {"id":"farmmarket-3","name":"Farmmarket 3","address":"53/2 Tokombaeva Street, Bishkek","phone":"+996312298470","hours":"Listed as open 24 hours","open24Hours":true,"sources":[{"label":"Pharm-Service pharmacy network","url":"https://amt.kg/index.php/about/logistic/affiliates"},{"label":"Branch details","url":"https://amt.kg/en/about/logistic/affiliates/3"}],"lastVerified":"2026-11-12","verificationStatus":"unverified"},
+    {"id":"farmmarket-4","name":"Farmmarket 4","address":"52/3 Yunusaliyeva Street, Bishkek","phone":"+996312884630","hours":"Listed as open 24 hours","open24Hours":true,"sources":[{"label":"Pharm-Service pharmacy network","url":"https://amt.kg/index.php/about/logistic/affiliates"}],"lastVerified":"2026-11-12","verificationStatus":"unverified"}
+  ]
+}
