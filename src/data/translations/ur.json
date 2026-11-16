@@ -66,5 +66,10 @@
   "phrases": "مفید جملے",
   "phrasesText": "I need an ambulance. / Мне нужна скорая помощь. / Мага тез жардам керек.",
   "result": "تلاش کے نتائج",
-  "allGuides": "تمام رہنمائی"
+  "allGuides": "تمام رہنمائی",
+  "hoursFilter": "اوقات کار",
+  "hoursAll": "تمام اوقات",
+  "hours24": "24 گھنٹے درج شدہ",
+  "hoursRegular": "معمول کے اوقات",
+  "hoursUnknown": "اوقات یا حیثیت غیر مصدقہ"
 }

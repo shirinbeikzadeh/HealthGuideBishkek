@@ -66,5 +66,10 @@
   "confirmDetails": "Provider information may change. Confirm hours, fees, language and insurance directly before visiting.",
   "hours": "Hours",
   "website": "Website",
-  "notVerified": "Not yet verified"
+  "notVerified": "Not yet verified",
+  "hoursFilter": "Hours category",
+  "hoursAll": "All hours",
+  "hours24": "Listed as 24 hours",
+  "hoursRegular": "Listed hours, not 24 hours",
+  "hoursUnknown": "Hours or status unconfirmed"
 }

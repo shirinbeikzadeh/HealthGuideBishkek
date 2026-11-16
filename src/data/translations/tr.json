@@ -66,5 +66,10 @@
   "phrases": "Yararlı ifadeler",
   "phrasesText": "I need an ambulance. / Мне нужна скорая помощь. / Мага тез жардам керек.",
   "result": "Arama sonuçları",
-  "allGuides": "Tüm rehberler"
+  "allGuides": "Tüm rehberler",
+  "hoursFilter": "Çalışma saatleri",
+  "hoursAll": "Tüm saatler",
+  "hours24": "24 saat açık olarak listelenen",
+  "hoursRegular": "24 saat olmayan çalışma saatleri",
+  "hoursUnknown": "Saat veya durum doğrulanmamış"
 }

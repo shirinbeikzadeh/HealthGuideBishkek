@@ -1,0 +1,22 @@
+{
+  "status":"Awaiting human approval; candidate details should be checked before publication.",
+  "notes":"Hours reflect cited listings, may change or conflict, and should be confirmed before travelling. Coordinates and languages are not yet verified.",
+  "researchedOn":"2026-11-16",
+  "candidates":[
+    {"name":"Farm-Service pharmacy 1","address":"131-18 Akhunbaeva Street, Bishkek","hours":"Listed as 24 hours","phone":"+996312545413","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"Farmmarket 2","address":"3/3 Tynalieva Street, Djal-29, Bishkek","hours":"Listed as 24 hours","phone":"+996312880035","source":"https://amt.kg/en/about/logistic/affiliates","notes":"Check address wording against https://2gis.kg/bishkek/firm/70000001020532735."},
+    {"name":"Farmmarket 5","address":"202 Akhunbaeva Street, Djal, Bishkek","hours":"Listed as 24 hours","phone":"+996312881368","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"Farmmarket 7","address":"13a 7 April Street, Bishkek","hours":"Listed as 24 hours","phone":"+996312881036","source":"https://amt.kg/en/about/logistic/affiliates","notes":"2GIS lists 13a/2; confirm address and hours before approval."},
+    {"name":"Farm-Service pharmacy 8","address":"29 Beishenalieva Street, Bishkek","hours":"08:00–21:00; days not specified","phone":"+996550544460","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"Farm-Service pharmacy point 1","address":"30 Logvinenko Street, Family Medicine Centre 3, Bishkek","hours":"08:30–17:30; days not specified","phone":"+996312881150","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"Farm-Service pharmacy point 2","address":"5th microdistrict, building 10, apartment 8, Bishkek","hours":"08:30–17:30; days not specified","phone":"+996312516445","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"Farm-Service pharmacy point 6","address":"182 Abdrakhmanova Street, Bishkek","hours":"09:00–23:00; days not specified","phone":"+996312886943","source":"https://amt.kg/en/about/logistic/affiliates"},
+    {"name":"357 Pharmacy","address":"1a Alamedin-1 microdistrict, Bishkek","hours":"Listed as 24 hours","source":"https://2gis.kg/bishkek/firm/70000001019369255"},
+    {"name":"Neman Pharmacy 96","address":"97/4 Chyngyz Aitmatov Avenue, Bishkek","hours":"Listed as 24 hours","source":"https://2gis.kg/bishkek/firm/70000001019830063"},
+    {"name":"Bimed Pharm 70","address":"90 Toktogul Street, Bishkek","hours":"Listed as 24 hours","source":"https://2gis.kg/bishkek/firm/70000001089111098"},
+    {"name":"Vita Pharmacy, Moskovskaya","address":"69 Moskovskaya Street, Bishkek","hours":"Daily 08:00–21:00","source":"https://2gis.kg/bishkek/firm/70000001020607819"},
+    {"name":"Vita Pharmacy, Chuy","address":"350 Chuy Avenue, Bishkek","hours":"Daily 08:00–21:00","source":"https://2gis.kg/bishkek/firm/70000001021360320"},
+    {"name":"Pharmacy, Tagay-Biy","address":"3/745B Tagay-Biy Street, Bishkek","hours":"Listed as 24 hours","source":"https://2gis.kg/bishkek/firm/70000001030554212"},
+    {"name":"Pharmacy 1","address":"340 Frunze Street, Bishkek","hours":"Not yet verified","source":"https://2gis.kg/bishkek/firm/70000001019364588"}
+  ]
+}

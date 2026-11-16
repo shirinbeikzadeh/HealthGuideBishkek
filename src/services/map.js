@@ -24,6 +24,11 @@ export function renderDirectoryMap(element, records, userPosition) {
     const address = document.createElement('p');
     address.textContent = record.address;
     popup.append(title, address);
+    if (record.availabilityNote) {
+      const note = document.createElement('p');
+      note.textContent = record.availabilityNote;
+      popup.append(note);
+    }
     L.circleMarker(point,{radius:9,color:'#fff',weight:2,fillColor:'#087c6d',fillOpacity:1}).addTo(map).bindPopup(popup);
     points.push(point);
   }

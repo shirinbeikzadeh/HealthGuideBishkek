@@ -66,11 +66,20 @@
       {
         "label": "Pharm-Service network",
         "url": "https://amt.kg/index.php/about/logistic/affiliates"
+      },
+      {
+        "label": "Yandex Maps building location",
+        "url": "https://yandex.com/maps/10309/bishkek/house/Y00YcARhT0MCQFpofXRwdHxkZA%3D%3D/"
       }
     ],
     "mapUrl": "https://2gis.kg/bishkek/firm/70000001041734549",
     "lastVerified": "2026-11-16",
-    "verificationStatus": "verified"
+    "verificationStatus": "verified",
+    "coordinates": {
+      "lat": 42.81507,
+      "lng": 74.631665
+    },
+    "open24Hours": true
   },
   {
     "id": "insan-pharm-usenbaeva",
@@ -93,21 +102,35 @@
     ],
     "mapUrl": "https://2gis.kg/bishkek/firm/70000001057027075",
     "lastVerified": "2026-11-16",
-    "verificationStatus": "verified"
+    "verificationStatus": "verified",
+    "open24Hours": true
   },
   {
     "id": "admiral-pharmacy",
     "name": "Admiral Pharmacy",
     "address": "41a Manas Avenue, Bishkek",
-    "hours": "Listed as open 24 hours; confirm before visiting.",
+    "hours": "Status uncertain: reported sealed on 3 November 2026. Confirm whether it has reopened before visiting.",
     "sources": [
       {
         "label": "2GIS pharmacy listing",
         "url": "https://2gis.kg/bishkek/firm/70000001019743586"
+      },
+      {
+        "label": "Location: UrbanPlaces",
+        "url": "https://urbanplaces.su/kg_bishkek/bishkek/card-423040-admiral"
+      },
+      {
+        "label": "Closure report, 3 November 2026",
+        "url": "https://kaktus.media/doc/556168_v_bishkeke_opechatali_dve_krypnye_apteki.html"
       }
     ],
     "mapUrl": "https://2gis.kg/bishkek/firm/70000001019743586",
     "lastVerified": "2026-11-16",
-    "verificationStatus": "verified"
+    "verificationStatus": "verified",
+    "coordinates": {
+      "lat": 42.872589,
+      "lng": 74.588275
+    },
+    "availabilityNote": "Reported sealed on 3 November 2026. Reopening has not been verified."
   }
 ]
