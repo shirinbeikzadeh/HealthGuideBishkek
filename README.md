@@ -1,6 +1,6 @@
 # HealthGuide Bishkek
 
-A static Vite website for health information in Bishkek. No backend, database, account, paid API or tracking is required. Search and language preferences stay in the browser. Geolocation is optional and is never sent to a server. External source links and Google Maps open external sites.
+A static Vite website for health information in Bishkek. No backend, database, account, paid API or tracking is required. Search and language preferences stay in the browser. Geolocation is optional; coordinates are used in the browser and are not stored. Maps use OpenStreetMap tiles, whose provider can infer the approximate viewed map area from tile requests. External source links and map links open external sites.
 
 ## Develop and test
 
@@ -36,4 +36,4 @@ Automated collection is intentionally deferred. A researcher should review appro
 
 ## Current limitations
 
-The directory contains a small initial set of listings sourced from provider websites; confirm details directly before visiting. No university contact is configured. Article translations and some interface translations remain to be completed and reviewed. Geolocation requests permission but cannot calculate distances until verified coordinates are added. The hero and topic images are AI-generated illustrations, not documentary photographs or depictions of specific facilities.
+The directory contains a small initial set of listings sourced from provider websites; confirm details directly before visiting. Pins are approximate address locations from OpenStreetMap, not confirmed entrances; listings without a reliable address coordinate remain list-only. Distances are straight-line estimates, not travel distances. An English-language note for the hospital is based on the UK government's October 2025 list and must be confirmed with the provider. No university contact is configured. Article translations and some interface translations remain to be completed and reviewed. The hero and topic images are AI-generated illustrations, not documentary photographs or depictions of specific facilities.

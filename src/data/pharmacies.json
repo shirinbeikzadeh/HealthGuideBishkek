@@ -14,11 +14,19 @@
       {
         "label": "Branch details",
         "url": "https://amt.kg/en/about/logistic/affiliates/3"
+      },
+      {
+        "label": "OpenStreetMap address location",
+        "url": "https://www.openstreetmap.org/way/408538436"
       }
     ],
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=53%2F2%20Tokombaeva%20Street%2C%20Bishkek"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=53%2F2%20Tokombaeva%20Street%2C%20Bishkek",
+    "coordinates": {
+      "lat": 42.8241945,
+      "lng": 74.6155311
+    }
   },
   {
     "id": "farmmarket-4",
@@ -31,10 +39,18 @@
       {
         "label": "Pharm-Service pharmacy network",
         "url": "https://amt.kg/index.php/about/logistic/affiliates"
+      },
+      {
+        "label": "OpenStreetMap address location",
+        "url": "https://www.openstreetmap.org/way/1572390808"
       }
     ],
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=52%2F3%20Yunusaliyeva%20Street%2C%20Bishkek"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=52%2F3%20Yunusaliyeva%20Street%2C%20Bishkek",
+    "coordinates": {
+      "lat": 42.8297587,
+      "lng": 74.6214638
+    }
   }
 ]

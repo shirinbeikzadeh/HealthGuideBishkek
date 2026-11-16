@@ -1,0 +1,14 @@
+{
+  "status": "Unverified candidates: human approval required before inclusion in the public directory.",
+  "researchedOn": "2026-11-16",
+  "notes": "These are discovery leads, not endorsements. Recheck addresses, hours, contact details and language availability before approval. Other languages, especially Urdu, have not been verified.",
+  "clinics": [
+    {"name":"Eldik Family Medicine Clinic","address":"2/1 Molodaya Gvardiya Boulevard, Bishkek","phone":"+996776652079","languages":["English"],"languageNote":"The UK and Japan government lists report English service; confirm at booking.","sources":["https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan","https://www.mofa.go.jp/mofaj/toko/medi/europe/kyrgyz.html"],"missing":["current hours","coordinates","insurance accepted"]},
+    {"name":"NEOMED","address":"46 Orozbekova Street, Bishkek","phone":"+996312906090","languageNote":"The UK list says some English-speaking staff; Japan's list says English is limited and interpretation can be requested. Confirm directly.","sources":["https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan","https://www.mofa.go.jp/mofaj/toko/medi/europe/kyrgyz.html"],"missing":["current hours","coordinates","insurance accepted"]}
+  ],
+  "pharmacies": [
+    {"name":"Farm-Service, pharmacy 6","address":"52a Asanbay microdistrict, Bishkek","hours":"Listed as open 24 hours","sources":["https://2gis.kg/bishkek/firm/70000001041734549","https://amt.kg/index.php/about/logistic/affiliates"],"missing":["current phone confirmation","languages","coordinates"]},
+    {"name":"Insan Pharm","address":"47 Usenbaeva Street, Bishkek","hours":"Listed as open 24 hours","sources":["https://2gis.kg/bishkek/firm/70000001057027075"],"missing":["complete phone number","languages","coordinates"]},
+    {"name":"Admiral Pharmacy","address":"41a Manas Avenue, Bishkek","hours":"Listed as open 24 hours","sources":["https://2gis.kg/bishkek/firm/70000001019743586"],"missing":["complete phone number","languages","coordinates"]}
+  ]
+}

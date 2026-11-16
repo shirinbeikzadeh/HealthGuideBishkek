@@ -16,11 +16,27 @@
       {
         "label": "Hospital official website",
         "url": "https://clinic.gov.kg/"
+      },
+      {
+        "label": "OpenStreetMap address location",
+        "url": "https://www.openstreetmap.org/relation/4627872"
+      },
+      {
+        "label": "UK government: medical facilities, October 2025",
+        "url": "https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan"
       }
     ],
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=110%20Kievskaya%20Street%2C%20Bishkek"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=110%20Kievskaya%20Street%2C%20Bishkek",
+    "coordinates": {
+      "lat": 42.874126,
+      "lng": 74.6002982
+    },
+    "languages": [
+      "English"
+    ],
+    "languageNote": "The UK government lists some English-speaking staff. Confirm availability when booking."
   },
   {
     "id": "unimed-clinic",
@@ -36,7 +52,7 @@
         "url": "https://unimed.kg/contacts/"
       }
     ],
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=3v%20Baitik%20Baatyra%20Street%2C%20Bishkek"
   },
@@ -52,10 +68,18 @@
       {
         "label": "On Clinic contacts",
         "url": "https://onclinic.kg/contacts.html"
+      },
+      {
+        "label": "OpenStreetMap address location",
+        "url": "https://www.openstreetmap.org/way/70749528"
       }
     ],
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=44%20Usenbaeva%20Street%2C%20Bishkek"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=44%20Usenbaeva%20Street%2C%20Bishkek",
+    "coordinates": {
+      "lat": 42.8697962,
+      "lng": 74.612413
+    }
   }
 ]
