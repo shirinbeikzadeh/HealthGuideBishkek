@@ -82,6 +82,15 @@ export function renderDirectoryMap(element, records, userPosition, labels = {}) 
     });
     actions.append(copy);
     popup.append(actions, feedback, manual);
+    if (record.photoUrl) {
+      const photoLink = document.createElement('a');
+      photoLink.href = record.photoUrl;
+      photoLink.target = '_blank';
+      photoLink.rel = 'noopener noreferrer';
+      photoLink.className = 'map-photo-link';
+      photoLink.textContent = labels.photos2gis || 'View photos on 2GIS';
+      popup.append(photoLink);
+    }
     L.circleMarker(point,{radius:9,color:'#fff',weight:2,fillColor:'#087c6d',fillOpacity:1}).addTo(map).bindPopup(popup);
     points.push(point);
   }

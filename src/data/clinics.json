@@ -86,13 +86,17 @@
     "id": "eldik-family-medicine",
     "name": "Eldik Family Medicine Clinic",
     "type": "Clinic",
-    "address": "2/1 Molodaya Gvardiya Boulevard, Bishkek",
+    "address": "6 Imanaly Aidarbekov Street, Bishkek",
     "phone": "+996776652079",
     "languages": [
       "English"
     ],
     "languageNote": "UK and Japanese government listings report English service; confirm availability when booking.",
     "sources": [
+      {
+        "label": "Clinic contact information",
+        "url": "https://www.eldikfmc.com/"
+      },
       {
         "label": "UK government medical facilities list, October 2025",
         "url": "https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan"
@@ -104,7 +108,8 @@
     ],
     "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=2%2F1%20Molodaya%20Gvardiya%20Boulevard%2C%20Bishkek"
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=6%20Imanaly%20Aidarbekov%20Street%2C%20Bishkek",
+    "addressNote": "The clinic’s website lists this address, while older government lists give a different address. Confirm before visiting."
   },
   {
     "id": "neomed",

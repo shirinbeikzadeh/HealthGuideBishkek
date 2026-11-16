@@ -4,8 +4,7 @@
     "name": "Farmmarket 3",
     "address": "53/2 Tokombaeva Street, Bishkek",
     "phone": "+996312298470",
-    "hours": "Listed as open 24 hours",
-    "open24Hours": true,
+    "hours": "Hours differ between the provider website and 2GIS; confirm directly before visiting.",
     "sources": [
       {
         "label": "Pharm-Service pharmacy network",
@@ -18,6 +17,10 @@
       {
         "label": "OpenStreetMap address location",
         "url": "https://www.openstreetmap.org/way/408538436"
+      },
+      {
+        "label": "2GIS listing (hours differ)",
+        "url": "https://2gis.kg/bishkek/firm/70000001025876982"
       }
     ],
     "lastVerified": "2026-11-16",
@@ -26,7 +29,8 @@
     "coordinates": {
       "lat": 42.8241945,
       "lng": 74.6155311
-    }
+    },
+    "photoUrl": "https://2gis.kg/bishkek/gallery/firm/70000001025876982"
   },
   {
     "id": "farmmarket-4",
@@ -51,7 +55,8 @@
     "coordinates": {
       "lat": 42.8297587,
       "lng": 74.6214638
-    }
+    },
+    "photoUrl": "https://2gis.kg/bishkek/gallery/firm/70000001029132101"
   },
   {
     "id": "farm-service-asanbay",
@@ -79,7 +84,8 @@
       "lat": 42.81507,
       "lng": 74.631665
     },
-    "open24Hours": true
+    "open24Hours": true,
+    "photoUrl": "https://2gis.kg/bishkek/gallery/firm/70000001041734549"
   },
   {
     "id": "insan-pharm-usenbaeva",
@@ -103,7 +109,8 @@
     "mapUrl": "https://2gis.kg/bishkek/firm/70000001057027075",
     "lastVerified": "2026-11-16",
     "verificationStatus": "verified",
-    "open24Hours": true
+    "open24Hours": true,
+    "photoUrl": "https://2gis.kg/bishkek/gallery/firm/70000001057027075"
   },
   {
     "id": "admiral-pharmacy",
@@ -131,6 +138,7 @@
       "lat": 42.872589,
       "lng": 74.588275
     },
-    "availabilityNote": "Reported sealed on 3 November 2026. Reopening has not been verified."
+    "availabilityNote": "Reported sealed on 3 November 2026. Reopening has not been verified.",
+    "photoUrl": "https://2gis.kg/bishkek/gallery/firm/70000001019743586"
   }
 ]

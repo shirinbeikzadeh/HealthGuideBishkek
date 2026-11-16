@@ -76,5 +76,9 @@
   "mapTaxi": "Yandex Go ٹیکسی",
   "mapCopy": "پتہ کاپی کریں",
   "mapCopied": "پتہ کاپی ہو گیا۔",
-  "mapCopyManually": "پتہ منتخب کر کے کاپی کریں۔"
+  "mapCopyManually": "پتہ منتخب کر کے کاپی کریں۔",
+  "mapGateTitle": "اپنے قریب مدد تلاش کریں",
+  "mapGateText": "نقشے پر اپنا مقام اور قریبی مقامات دیکھنے کے لیے مقام کی اجازت دیں۔",
+  "mapWithoutLocation": "مقام کے بغیر نقشہ دیکھیں",
+  "photos2gis": "2GIS پر تصاویر دیکھیں"
 }

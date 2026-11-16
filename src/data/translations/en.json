@@ -76,5 +76,9 @@
   "mapTaxi": "Yandex Go taxi",
   "mapCopy": "Copy address",
   "mapCopied": "Address copied.",
-  "mapCopyManually": "Select and copy the address."
+  "mapCopyManually": "Select and copy the address.",
+  "mapGateTitle": "Find care near you",
+  "mapGateText": "Allow location access to see your position and nearby places on the map.",
+  "mapWithoutLocation": "View map without my location",
+  "photos2gis": "View photos on 2GIS"
 }

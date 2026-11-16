@@ -76,5 +76,9 @@
   "mapTaxi": "Yandex Go taksi",
   "mapCopy": "Adresi kopyala",
   "mapCopied": "Adres kopyalandı.",
-  "mapCopyManually": "Adresi seçip kopyalayın."
+  "mapCopyManually": "Adresi seçip kopyalayın.",
+  "mapGateTitle": "Yakınınızdaki hizmetleri bulun",
+  "mapGateText": "Konumunuzu ve yakındaki yerleri haritada görmek için konum erişimine izin verin.",
+  "mapWithoutLocation": "Konum olmadan haritayı görüntüle",
+  "photos2gis": "2GIS’te fotoğrafları gör"
 }
