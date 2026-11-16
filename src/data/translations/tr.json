@@ -71,5 +71,10 @@
   "hoursAll": "Tüm saatler",
   "hours24": "24 saat açık olarak listelenen",
   "hoursRegular": "24 saat olmayan çalışma saatleri",
-  "hoursUnknown": "Saat veya durum doğrulanmamış"
+  "hoursUnknown": "Saat veya durum doğrulanmamış",
+  "mapApproximate": "Harita işareti yaklaşık konumu gösterir. Yolculuktan önce adresi doğrulayın.",
+  "mapTaxi": "Yandex Go taksi",
+  "mapCopy": "Adresi kopyala",
+  "mapCopied": "Adres kopyalandı.",
+  "mapCopyManually": "Adresi seçip kopyalayın."
 }

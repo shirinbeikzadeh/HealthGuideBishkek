@@ -71,5 +71,10 @@
   "hoursAll": "All hours",
   "hours24": "Listed as 24 hours",
   "hoursRegular": "Listed hours, not 24 hours",
-  "hoursUnknown": "Hours or status unconfirmed"
+  "hoursUnknown": "Hours or status unconfirmed",
+  "mapApproximate": "The map pin is approximate. Confirm the destination before booking.",
+  "mapTaxi": "Yandex Go taxi",
+  "mapCopy": "Copy address",
+  "mapCopied": "Address copied.",
+  "mapCopyManually": "Select and copy the address."
 }
