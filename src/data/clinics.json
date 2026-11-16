@@ -81,5 +81,53 @@
       "lat": 42.8697962,
       "lng": 74.612413
     }
+  },
+  {
+    "id": "eldik-family-medicine",
+    "name": "Eldik Family Medicine Clinic",
+    "type": "Clinic",
+    "address": "2/1 Molodaya Gvardiya Boulevard, Bishkek",
+    "phone": "+996776652079",
+    "languages": [
+      "English"
+    ],
+    "languageNote": "UK and Japanese government listings report English service; confirm availability when booking.",
+    "sources": [
+      {
+        "label": "UK government medical facilities list, October 2025",
+        "url": "https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan"
+      },
+      {
+        "label": "Japanese Ministry of Foreign Affairs medical information",
+        "url": "https://www.mofa.go.jp/mofaj/toko/medi/europe/kyrgyz.html"
+      }
+    ],
+    "lastVerified": "2026-11-16",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=2%2F1%20Molodaya%20Gvardiya%20Boulevard%2C%20Bishkek"
+  },
+  {
+    "id": "neomed",
+    "name": "NEOMED",
+    "type": "Clinic",
+    "address": "46 Orozbekova Street, Bishkek",
+    "phone": "+996312906090",
+    "languages": [
+      "English"
+    ],
+    "languageNote": "The UK list reports some English-speaking staff; the Japanese government says English may be limited and interpretation can be requested. Confirm when booking.",
+    "sources": [
+      {
+        "label": "UK government medical facilities list, October 2025",
+        "url": "https://www.gov.uk/government/publications/kyrgyzstan-list-of-medical-facilitiespractitioners/list-of-medical-facilities-in-kyrgyzstan"
+      },
+      {
+        "label": "Japanese Ministry of Foreign Affairs medical information",
+        "url": "https://www.mofa.go.jp/mofaj/toko/medi/europe/kyrgyz.html"
+      }
+    ],
+    "lastVerified": "2026-11-16",
+    "verificationStatus": "verified",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=46%20Orozbekova%20Street%2C%20Bishkek"
   }
 ]

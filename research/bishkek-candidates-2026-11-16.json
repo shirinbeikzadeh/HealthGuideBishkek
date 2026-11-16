@@ -1,5 +1,5 @@
 {
-  "status": "Unverified candidates: human approval required before inclusion in the public directory.",
+  "status": "Approved for publication by the user on 2026-11-16; outstanding fields remain unverified.",
   "researchedOn": "2026-11-16",
   "notes": "These are discovery leads, not endorsements. Recheck addresses, hours, contact details and language availability before approval. Other languages, especially Urdu, have not been verified.",
   "clinics": [
@@ -12,3 +12,4 @@
     {"name":"Admiral Pharmacy","address":"41a Manas Avenue, Bishkek","hours":"Listed as open 24 hours","sources":["https://2gis.kg/bishkek/firm/70000001019743586"],"missing":["complete phone number","languages","coordinates"]}
   ]
 }
+
